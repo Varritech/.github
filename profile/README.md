@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://varritech.com/varritech_logo_blk.png" alt="Varritech Logo" width="200"/>
+  <img src="https://varritech.com/images/varritech_development_services.png" alt="Varritech Logo"/>
 
   <br />
   <br />
@@ -40,4 +40,4 @@ While we love open source, we also offer premium development services:
 - **Cloud Architecture**
 - **Technical Consulting**
 
-[Contact Us](mailto:christian@varritech.com) for private development needs.
+[Contact Us](https://app.usemotion.com/meet/varritech/chat) for private development needs.
